@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="ABAGAIL-master">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../ABAGAIL-master" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../ABAGAIL-master/src" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../ABAGAIL-master" recursive="false" />
+  </library>
+</component>
